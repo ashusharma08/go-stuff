@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package agent;
+
+option go_package = "github.com/esoptra/go-prac/grpc-server/agent";
+
+
+service Agent {
+    rpc SayHello(HelloRequest) returns (HelloResponse){}
+}
+
+message HelloRequest{
+    string  name = 1;
+}
+
+message HelloResponse{
+    string message = 1;
+}

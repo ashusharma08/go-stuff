@@ -1,0 +1,551 @@
+consumer  Consumer 2  starting up
+Producer 1  staring 
+consumer  Consumer 1  starting up
+Producer 4  staring 
+Producer 3  staring 
+Producer 2  staring 
+waking up  Producer 1
+sending  WEHzHeBdFn  from  Producer 1
+sending  BiKHkEBDwr  from  Producer 1
+sending  XXXUpKxhgP  from  Producer 1
+sending  zaNfLGsmgU  from  Producer 1
+sending  caXjmmCYXp  from  Producer 1
+sending  UdEyunFwdT  from  Producer 1
+sending  NWYQfnAIST  from  Producer 1
+waking up  Producer 1
+sending  txpwajCXmz  from  Producer 1
+sending  YzKYFITcaF  from  Producer 1
+sending  sHLsmnyYkQ  from  Producer 1
+sending  QxNUAOgWaT  from  Producer 1
+wakig up  Producer 1
+wakig up  Producer 1
+read  BiKHkEBDwr  from  Producer 1  by consumer  Consumer 1
+read  DXSQslhgdm  from  Producer 2  by consumer  Consumer 1
+waking up  Producer 2
+read  MlJrMHKfDu  from  Producer 3  by consumer  Consumer 1
+read  UovevAxppE  from  Producer 4  by consumer  Consumer 1
+waking up  Producer 4
+read  XXXUpKxhgP  from  Producer 1  by consumer  Consumer 1
+waking up  Producer 2
+sending  DXSQslhgdm  from  Producer 2
+sending  rkRcJrdRDE  from  Producer 2
+sending  dmfJwvCEnK  from  Producer 2
+sending  iGfWCBKefd  from  Producer 2
+sending  kIIJTKhwdB  from  Producer 2
+sending  ImckwNfsjW  from  Producer 2
+sending  yKcNNriXFS  from  Producer 2
+sending  QIcdsmQFtE  from  Producer 2
+sending  CHuEnsYrdv  from  Producer 2
+sending  UmfGsJiDlk  from  Producer 2
+sending  FmtDHiWjuc  from  Producer 2
+wakig up  Producer 2
+wakig up  Producer 2
+waking up  Producer 3
+waking up  Producer 3
+sending  MlJrMHKfDu  from  Producer 3
+read  WEHzHeBdFn  from  Producer 1  by consumer  Consumer 2
+read  rkRcJrdRDE  from  Producer 2  by consumer  Consumer 2
+read  dmfJwvCEnK  from  Producer 2  by consumer  Consumer 2
+read  wDwcWgEUew  from  Producer 3  by consumer  Consumer 2
+waking up  Producer 3
+sending  UovevAxppE  from  Producer 4
+sending  iTBUHnHrfU  from  Producer 4
+sending  FArYtmMzPW  from  Producer 4
+sending  AQRLEajUrh  from  Producer 4
+sending  QCLcIEMooc  from  Producer 4
+sending  qDRdpKWRgY  from  Producer 4
+sending  LBGzSfPsuy  from  Producer 4
+sending  UGOCheUnlb  from  Producer 4
+sending  qMLFpFMapX  from  Producer 4
+sending  MuKnzFkllV  from  Producer 4
+sending  YGPQByAvQv  from  Producer 4
+wakig up  Producer 4
+sending  wDwcWgEUew  from  Producer 3
+sending  TTmwWQxBNM  from  Producer 3
+sending  CtUoNCuNmV  from  Producer 3
+sending  VRyWOhtfmo  from  Producer 3
+sending  wEVOuNWLmX  from  Producer 3
+sending  OBYhkKTGXm  from  Producer 3
+sending  HFPNEmAMHt  from  Producer 3
+sending  lAXbTvkPdW  from  Producer 3
+sending  ywljefljHn  from  Producer 3
+sending  QGijlUoMMi  from  Producer 3
+sending  pSXGQrqjeV  from  Producer 3
+wakig up  Producer 3
+wakig up  Producer 3
+wakig up  Producer 3
+read  FArYtmMzPW  from  Producer 4  by consumer  Consumer 2
+read  zaNfLGsmgU  from  Producer 1  by consumer  Consumer 2
+read  iGfWCBKefd  from  Producer 2  by consumer  Consumer 2
+read  kIIJTKhwdB  from  Producer 2  by consumer  Consumer 2
+read  iTBUHnHrfU  from  Producer 4  by consumer  Consumer 1
+read  caXjmmCYXp  from  Producer 1  by consumer  Consumer 1
+read  ImckwNfsjW  from  Producer 2  by consumer  Consumer 1
+read  CtUoNCuNmV  from  Producer 3  by consumer  Consumer 1
+read  VRyWOhtfmo  from  Producer 3  by consumer  Consumer 1
+Consumer 1  discarded
+read  TTmwWQxBNM  from  Producer 3  by consumer  Consumer 2
+read  wEVOuNWLmX  from  Producer 3  by consumer  Consumer 2
+Consumer 2  discarded
+read  qDRdpKWRgY  from  Producer 4  by consumer  Consumer 1
+read  UdEyunFwdT  from  Producer 1  by consumer  Consumer 1
+read  yKcNNriXFS  from  Producer 2  by consumer  Consumer 1
+read  OBYhkKTGXm  from  Producer 3  by consumer  Consumer 1
+read  LBGzSfPsuy  from  Producer 4  by consumer  Consumer 1
+read  NWYQfnAIST  from  Producer 1  by consumer  Consumer 1
+read  QIcdsmQFtE  from  Producer 2  by consumer  Consumer 1
+read  CHuEnsYrdv  from  Producer 2  by consumer  Consumer 1
+read  HFPNEmAMHt  from  Producer 3  by consumer  Consumer 1
+read  lAXbTvkPdW  from  Producer 3  by consumer  Consumer 1
+Consumer 1  discarded
+read  txpwajCXmz  from  Producer 1  by consumer  Consumer 2
+read  UmfGsJiDlk  from  Producer 2  by consumer  Consumer 2
+read  FmtDHiWjuc  from  Producer 2  by consumer  Consumer 2
+read  ywljefljHn  from  Producer 3  by consumer  Consumer 2
+read  qMLFpFMapX  from  Producer 4  by consumer  Consumer 2
+read  MuKnzFkllV  from  Producer 4  by consumer  Consumer 2
+read  YzKYFITcaF  from  Producer 1  by consumer  Consumer 2
+read  sHLsmnyYkQ  from  Producer 1  by consumer  Consumer 2
+waking up  Producer 2
+waking up  Producer 2
+read  QGijlUoMMi  from  Producer 3  by consumer  Consumer 2
+read  YGPQByAvQv  from  Producer 4  by consumer  Consumer 2
+Consumer 2  discarded
+wakig up  Producer 2
+sending  yKcJOqahIf  from  Producer 2
+sending  MonXtOPDOo  from  Producer 2
+sending  OTjAexWGWv  from  Producer 2
+sending  qfPznySSnP  from  Producer 2
+sending  buBBCPnkAc  from  Producer 2
+sending  NDJPqcmjNW  from  Producer 2
+sending  pKwdTytTsc  from  Producer 2
+sending  DNHHvdTJBn  from  Producer 2
+sending  HvffoplfwD  from  Producer 2
+sending  rPtOlHYqCX  from  Producer 2
+wakig up  Producer 2
+waking up  Producer 1
+waking up  Producer 1
+read  yKcJOqahIf  from  Producer 2  by consumer  Consumer 1
+read  pSXGQrqjeV  from  Producer 3  by consumer  Consumer 1
+waking up  Producer 4
+waking up  Producer 1
+wakig up  Producer 4
+sending  eyFbTfgLaN  from  Producer 4
+sending  RyhvXWqNhJ  from  Producer 4
+sending  NPWOTlORIW  from  Producer 4
+sending  zzPHwFvSqD  from  Producer 4
+sending  XDNvWnKHzh  from  Producer 4
+wakig up  Producer 1
+sending  ytogvftRKx  from  Producer 1
+sending  mUmMYDyjGw  from  Producer 1
+sending  PKxioyHXYa  from  Producer 1
+sending  fHdBsfWfrU  from  Producer 1
+sending  QjoHklElhw  from  Producer 1
+sending  tVgPTAiFSc  from  Producer 1
+sending  PqGRGtBWhk  from  Producer 1
+sending  QbUuYlTNTE  from  Producer 1
+sending  OWveczzalA  from  Producer 1
+sending  kSIbHMUMcK  from  Producer 4
+sending  wlcQMocTMw  from  Producer 4
+sending  VnKBBvPalk  from  Producer 4
+sending  nqkRCFdkMl  from  Producer 4
+sending  XgMelVARND  from  Producer 4
+sending  DpFlglwgPw  from  Producer 1
+wakig up  Producer 1
+wakig up  Producer 1
+read  ytogvftRKx  from  Producer 1  by consumer  Consumer 1
+read  MonXtOPDOo  from  Producer 2  by consumer  Consumer 1
+read  OTjAexWGWv  from  Producer 2  by consumer  Consumer 1
+waking up  Producer 3
+waking up  Producer 3
+read  eyFbTfgLaN  from  Producer 4  by consumer  Consumer 1
+read  mUmMYDyjGw  from  Producer 1  by consumer  Consumer 1
+read  PKxioyHXYa  from  Producer 1  by consumer  Consumer 1
+read  qfPznySSnP  from  Producer 2  by consumer  Consumer 1
+read  buBBCPnkAc  from  Producer 2  by consumer  Consumer 1
+waking up  Producer 3
+wakig up  Producer 3
+sending  ntbnlsFljI  from  Producer 3
+sending  alHqNzuBcq  from  Producer 3
+sending  eRHAcMzmAt  from  Producer 3
+sending  PCwokSvjMU  from  Producer 3
+sending  aQzgwxoXOb  from  Producer 3
+sending  uAeHRUTCqO  from  Producer 3
+sending  HDWiVqwHeY  from  Producer 3
+sending  oMtcmNhRfH  from  Producer 3
+sending  OurRHHEAeb  from  Producer 3
+sending  LgvQtwFzAz  from  Producer 3
+wakig up  Producer 3
+wakig up  Producer 3
+Consumer 1  discarded
+read  RyhvXWqNhJ  from  Producer 4  by consumer  Consumer 1
+read  fHdBsfWfrU  from  Producer 1  by consumer  Consumer 1
+read  NDJPqcmjNW  from  Producer 2  by consumer  Consumer 1
+read  alHqNzuBcq  from  Producer 3  by consumer  Consumer 1
+read  NPWOTlORIW  from  Producer 4  by consumer  Consumer 1
+read  QjoHklElhw  from  Producer 1  by consumer  Consumer 1
+read  tVgPTAiFSc  from  Producer 1  by consumer  Consumer 1
+read  pKwdTytTsc  from  Producer 2  by consumer  Consumer 1
+read  DNHHvdTJBn  from  Producer 2  by consumer  Consumer 1
+read  eRHAcMzmAt  from  Producer 3  by consumer  Consumer 1
+Consumer 1  discarded
+read  PqGRGtBWhk  from  Producer 1  by consumer  Consumer 2
+read  HvffoplfwD  from  Producer 2  by consumer  Consumer 2
+read  aQzgwxoXOb  from  Producer 3  by consumer  Consumer 2
+read  zzPHwFvSqD  from  Producer 4  by consumer  Consumer 2
+read  QbUuYlTNTE  from  Producer 1  by consumer  Consumer 2
+read  rPtOlHYqCX  from  Producer 2  by consumer  Consumer 2
+waking up  Producer 2
+read  uAeHRUTCqO  from  Producer 3  by consumer  Consumer 2
+read  XDNvWnKHzh  from  Producer 4  by consumer  Consumer 2
+read  kSIbHMUMcK  from  Producer 4  by consumer  Consumer 2
+read  OWveczzalA  from  Producer 1  by consumer  Consumer 2
+Consumer 2  discarded
+wakig up  Producer 2
+sending  yUaNnPANfx  from  Producer 2
+sending  UjvQGVtQXC  from  Producer 2
+sending  mitFvguPuH  from  Producer 2
+sending  KhYEpotoJt  from  Producer 2
+sending  ScTTJIjcrD  from  Producer 2
+sending  ftgHsjXBpF  from  Producer 2
+sending  kYQkikjHvb  from  Producer 2
+sending  ODOslqbJPL  from  Producer 2
+sending  cOHxcPEgay  from  Producer 2
+sending  wgiFpfTWpX  from  Producer 2
+read  wlcQMocTMw  from  Producer 4  by consumer  Consumer 1
+waking up  Producer 1
+read  yUaNnPANfx  from  Producer 2  by consumer  Consumer 1
+read  HDWiVqwHeY  from  Producer 3  by consumer  Consumer 1
+read  oMtcmNhRfH  from  Producer 3  by consumer  Consumer 1
+read  VnKBBvPalk  from  Producer 4  by consumer  Consumer 1
+read  nqkRCFdkMl  from  Producer 4  by consumer  Consumer 1
+waking up  Producer 1
+read  UjvQGVtQXC  from  Producer 2  by consumer  Consumer 1
+read  mitFvguPuH  from  Producer 2  by consumer  Consumer 1
+read  OurRHHEAeb  from  Producer 3  by consumer  Consumer 1
+read  XgMelVARND  from  Producer 4  by consumer  Consumer 1
+waking up  Producer 4
+waking up  Producer 1
+wakig up  Producer 4
+sending  uRtnquLmbh  from  Producer 4
+sending  mKPOxYzPqa  from  Producer 4
+sending  CNcvzeThrT  from  Producer 4
+sending  OfQuMYOXkQ  from  Producer 4
+wakig up  Producer 1
+sending  vyUeOlSqkV  from  Producer 1
+sending  kSMntRVatm  from  Producer 1
+sending  JHJLHcnALq  from  Producer 1
+sending  MJChjfktWu  from  Producer 1
+sending  bXbfVKGwuE  from  Producer 1
+sending  SBbCRAdtgb  from  Producer 1
+sending  rsHfjCVFwp  from  Producer 1
+sending  vAXGmKrVGT  from  Producer 1
+sending  bXeSGxGsfy  from  Producer 1
+sending  ehADSbCcAq  from  Producer 1
+wakig up  Producer 1
+wakig up  Producer 1
+sending  jlVYDQyABx  from  Producer 4
+sending  zFSyAcdbcO  from  Producer 4
+sending  YBaAxpTIVd  from  Producer 4
+sending  cynXruNHlx  from  Producer 4
+sending  oSjMRGXkPU  from  Producer 4
+sending  RNBhXHShws  from  Producer 4
+Consumer 1  discarded
+read  ScTTJIjcrD  from  Producer 2  by consumer  Consumer 2
+read  ftgHsjXBpF  from  Producer 2  by consumer  Consumer 2
+read  LgvQtwFzAz  from  Producer 3  by consumer  Consumer 2
+read  uRtnquLmbh  from  Producer 4  by consumer  Consumer 2
+read  vyUeOlSqkV  from  Producer 1  by consumer  Consumer 2
+read  kSMntRVatm  from  Producer 1  by consumer  Consumer 2
+read  kYQkikjHvb  from  Producer 2  by consumer  Consumer 2
+waking up  Producer 3
+waking up  Producer 3
+read  mKPOxYzPqa  from  Producer 4  by consumer  Consumer 2
+read  CNcvzeThrT  from  Producer 4  by consumer  Consumer 2
+read  JHJLHcnALq  from  Producer 1  by consumer  Consumer 2
+Consumer 2  discarded
+wakig up  Producer 3
+sending  eDrjWzwGnV  from  Producer 3
+sending  kTfKyDLotX  from  Producer 3
+sending  ThOjogbsjm  from  Producer 3
+sending  dvIquLsMTl  from  Producer 3
+sending  AIqJJPGEAI  from  Producer 3
+sending  yFuAvLoQPv  from  Producer 3
+sending  PrmyragfTL  from  Producer 3
+sending  NTftktmhSi  from  Producer 3
+sending  VenIFwnYtc  from  Producer 3
+sending  GqMijGuxBq  from  Producer 3
+wakig up  Producer 3
+read  eDrjWzwGnV  from  Producer 3  by consumer  Consumer 1
+read  OfQuMYOXkQ  from  Producer 4  by consumer  Consumer 1
+read  jlVYDQyABx  from  Producer 4  by consumer  Consumer 1
+read  MJChjfktWu  from  Producer 1  by consumer  Consumer 1
+read  cOHxcPEgay  from  Producer 2  by consumer  Consumer 1
+read  kTfKyDLotX  from  Producer 3  by consumer  Consumer 1
+read  ThOjogbsjm  from  Producer 3  by consumer  Consumer 1
+read  zFSyAcdbcO  from  Producer 4  by consumer  Consumer 1
+read  bXbfVKGwuE  from  Producer 1  by consumer  Consumer 1
+read  SBbCRAdtgb  from  Producer 1  by consumer  Consumer 1
+Consumer 1  discarded
+waking up  Producer 2
+read  dvIquLsMTl  from  Producer 3  by consumer  Consumer 1
+read  YBaAxpTIVd  from  Producer 4  by consumer  Consumer 1
+read  cynXruNHlx  from  Producer 4  by consumer  Consumer 1
+read  rsHfjCVFwp  from  Producer 1  by consumer  Consumer 1
+read  vAXGmKrVGT  from  Producer 1  by consumer  Consumer 1
+waking up  Producer 2
+waking up  Producer 2
+wakig up  Producer 2
+sending  TSivlVWpbp  from  Producer 2
+sending  xNtXXMhsNS  from  Producer 2
+sending  qzJqbkiLVo  from  Producer 2
+sending  MWVGmTVirk  from  Producer 2
+sending  ouBghqhswx  from  Producer 2
+sending  LKBCXDvrlo  from  Producer 2
+sending  oNXeSxbOMD  from  Producer 2
+sending  HBQRBgdvmR  from  Producer 2
+sending  dOdawgwgGc  from  Producer 2
+sending  XEdzAAgqvx  from  Producer 2
+wakig up  Producer 2
+wakig up  Producer 2
+read  AIqJJPGEAI  from  Producer 3  by consumer  Consumer 1
+read  yFuAvLoQPv  from  Producer 3  by consumer  Consumer 1
+read  oSjMRGXkPU  from  Producer 4  by consumer  Consumer 1
+read  bXeSGxGsfy  from  Producer 1  by consumer  Consumer 1
+read  TSivlVWpbp  from  Producer 2  by consumer  Consumer 1
+Consumer 1  discarded
+read  qzJqbkiLVo  from  Producer 2  by consumer  Consumer 2
+read  PrmyragfTL  from  Producer 3  by consumer  Consumer 2
+read  NTftktmhSi  from  Producer 3  by consumer  Consumer 2
+read  RNBhXHShws  from  Producer 4  by consumer  Consumer 2
+waking up  Producer 4
+read  ehADSbCcAq  from  Producer 1  by consumer  Consumer 2
+read  MWVGmTVirk  from  Producer 2  by consumer  Consumer 2
+read  ouBghqhswx  from  Producer 2  by consumer  Consumer 2
+read  VenIFwnYtc  from  Producer 3  by consumer  Consumer 2
+waking up  Producer 4
+waking up  Producer 4
+wakig up  Producer 4
+sending  DUhhcPCLtU  from  Producer 4
+sending  mUxnEOOBVV  from  Producer 4
+sending  QVSEavnjwd  from  Producer 4
+sending  XxkKJJHQGf  from  Producer 4
+sending  vsxHzkmpWv  from  Producer 4
+sending  crfuToTnUf  from  Producer 4
+sending  AOgtQGtozb  from  Producer 4
+sending  SqjzVBYyva  from  Producer 4
+sending  eFcveEYRqv  from  Producer 4
+sending  LeMCJqwypp  from  Producer 4
+wakig up  Producer 4
+wakig up  Producer 4
+waking up  Producer 1
+waking up  Producer 1
+wakig up  Producer 1
+sending  MPTPDsBQho  from  Producer 1
+sending  ldkijIKiDg  from  Producer 1
+sending  CUEHFxSPlQ  from  Producer 1
+sending  GLTWByBvgR  from  Producer 1
+sending  qYvnMUPwpa  from  Producer 1
+sending  pjNlrdrEJq  from  Producer 1
+sending  TqEIOMbjoM  from  Producer 1
+sending  twEglvpzyG  from  Producer 1
+sending  tFmjAhgyoc  from  Producer 1
+sending  hhPUmKzIel  from  Producer 1
+wakig up  Producer 1
+read  LKBCXDvrlo  from  Producer 2  by consumer  Consumer 2
+read  GqMijGuxBq  from  Producer 3  by consumer  Consumer 2
+waking up  Producer 3
+Consumer 2  discarded
+wakig up  Producer 3
+sending  EXLtyQljWj  from  Producer 3
+sending  bSkleTwfQV  from  Producer 3
+sending  nRoIEJXoku  from  Producer 3
+sending  ajwqKpmAzg  from  Producer 3
+sending  hdnQXxOXzT  from  Producer 3
+sending  TTNJAJDhVa  from  Producer 3
+sending  ctuUOWhyiL  from  Producer 3
+sending  nyMGFFCqFS  from  Producer 3
+sending  sqfvmcGdyc  from  Producer 3
+sending  HcIVwJLFkT  from  Producer 3
+read  EXLtyQljWj  from  Producer 3  by consumer  Consumer 1
+read  mUxnEOOBVV  from  Producer 4  by consumer  Consumer 1
+read  MPTPDsBQho  from  Producer 1  by consumer  Consumer 1
+read  ldkijIKiDg  from  Producer 1  by consumer  Consumer 1
+read  oNXeSxbOMD  from  Producer 2  by consumer  Consumer 1
+read  bSkleTwfQV  from  Producer 3  by consumer  Consumer 1
+read  nRoIEJXoku  from  Producer 3  by consumer  Consumer 1
+read  QVSEavnjwd  from  Producer 4  by consumer  Consumer 1
+read  CUEHFxSPlQ  from  Producer 1  by consumer  Consumer 1
+read  HBQRBgdvmR  from  Producer 2  by consumer  Consumer 1
+Consumer 1  discarded
+read  XxkKJJHQGf  from  Producer 4  by consumer  Consumer 2
+read  GLTWByBvgR  from  Producer 1  by consumer  Consumer 2
+read  dOdawgwgGc  from  Producer 2  by consumer  Consumer 2
+read  XEdzAAgqvx  from  Producer 2  by consumer  Consumer 2
+read  hdnQXxOXzT  from  Producer 3  by consumer  Consumer 2
+read  TTNJAJDhVa  from  Producer 3  by consumer  Consumer 2
+read  vsxHzkmpWv  from  Producer 4  by consumer  Consumer 2
+read  qYvnMUPwpa  from  Producer 1  by consumer  Consumer 2
+waking up  Producer 2
+read  ctuUOWhyiL  from  Producer 3  by consumer  Consumer 2
+read  nyMGFFCqFS  from  Producer 3  by consumer  Consumer 2
+Consumer 2  discarded
+wakig up  Producer 2
+sending  UsncaHuMBr  from  Producer 2
+sending  yJTYdbNCbD  from  Producer 2
+sending  LIogjfSeOa  from  Producer 2
+sending  QSpAEdrCyS  from  Producer 2
+sending  EpfzhmoLUe  from  Producer 2
+sending  zmWtVlxegj  from  Producer 2
+sending  NSivOJbtww  from  Producer 2
+sending  JrFcTuzwTY  from  Producer 2
+sending  rNVJvOGNEw  from  Producer 2
+sending  XcJGtKChIt  from  Producer 2
+read  AOgtQGtozb  from  Producer 4  by consumer  Consumer 2
+read  pjNlrdrEJq  from  Producer 1  by consumer  Consumer 2
+read  UsncaHuMBr  from  Producer 2  by consumer  Consumer 2
+read  yJTYdbNCbD  from  Producer 2  by consumer  Consumer 2
+read  sqfvmcGdyc  from  Producer 3  by consumer  Consumer 2
+read  SqjzVBYyva  from  Producer 4  by consumer  Consumer 2
+read  TqEIOMbjoM  from  Producer 1  by consumer  Consumer 2
+read  LIogjfSeOa  from  Producer 2  by consumer  Consumer 2
+read  QSpAEdrCyS  from  Producer 2  by consumer  Consumer 2
+read  HcIVwJLFkT  from  Producer 3  by consumer  Consumer 2
+waking up  Producer 3
+Consumer 2  discarded
+wakig up  Producer 3
+sending  jSkQJQmyED  from  Producer 3
+sending  TtaKKRKqOa  from  Producer 3
+sending  PqYNzTUYmq  from  Producer 3
+sending  azrgTeeSyq  from  Producer 3
+sending  OwVGvNOgWV  from  Producer 3
+sending  iytuErsSgv  from  Producer 3
+sending  KBKAYqsEdE  from  Producer 3
+sending  uWEBRsQFxo  from  Producer 3
+sending  SRlSUMXwgD  from  Producer 3
+sending  diEGGhCpHA  from  Producer 3
+read  LeMCJqwypp  from  Producer 4  by consumer  Consumer 2
+read  twEglvpzyG  from  Producer 1  by consumer  Consumer 2
+read  EpfzhmoLUe  from  Producer 2  by consumer  Consumer 2
+read  jSkQJQmyED  from  Producer 3  by consumer  Consumer 2
+read  TtaKKRKqOa  from  Producer 3  by consumer  Consumer 2
+waking up  Producer 4
+read  tFmjAhgyoc  from  Producer 1  by consumer  Consumer 2
+read  zmWtVlxegj  from  Producer 2  by consumer  Consumer 2
+read  PqYNzTUYmq  from  Producer 3  by consumer  Consumer 2
+waking up  Producer 4
+read  hhPUmKzIel  from  Producer 1  by consumer  Consumer 2
+waking up  Producer 1
+read  NSivOJbtww  from  Producer 2  by consumer  Consumer 2
+Consumer 2  discarded
+wakig up  Producer 1
+sending  cwpgDsaVMA  from  Producer 1
+sending  zKibYHpioI  from  Producer 1
+wakig up  Producer 4
+sending  TqXjvzhirW  from  Producer 4
+sending  ejQlTYJiPo  from  Producer 4
+sending  ncIzgcJahg  from  Producer 4
+sending  goWiShzlxC  from  Producer 4
+sending  eAImFylvWo  from  Producer 4
+sending  mKYrEMDVck  from  Producer 4
+sending  eyVyqzXPtR  from  Producer 4
+sending  XNIxMRLidL  from  Producer 4
+sending  ldzgPNIBwt  from  Producer 4
+sending  pVlVIPCGdW  from  Producer 4
+wakig up  Producer 4
+sending  efWTqButLK  from  Producer 1
+sending  IxxCajCJtb  from  Producer 1
+sending  rDcXNDrajr  from  Producer 1
+sending  XUqyuKBePG  from  Producer 1
+sending  xCkUhjgDtA  from  Producer 1
+sending  RKsHFvXjSS  from  Producer 1
+sending  XLwwbTgsjn  from  Producer 1
+sending  boyKaWCfdW  from  Producer 1
+read  azrgTeeSyq  from  Producer 3  by consumer  Consumer 1
+read  TqXjvzhirW  from  Producer 4  by consumer  Consumer 1
+read  ejQlTYJiPo  from  Producer 4  by consumer  Consumer 1
+read  cwpgDsaVMA  from  Producer 1  by consumer  Consumer 1
+read  rNVJvOGNEw  from  Producer 2  by consumer  Consumer 1
+read  XcJGtKChIt  from  Producer 2  by consumer  Consumer 1
+read  OwVGvNOgWV  from  Producer 3  by consumer  Consumer 1
+read  iytuErsSgv  from  Producer 3  by consumer  Consumer 1
+read  ncIzgcJahg  from  Producer 4  by consumer  Consumer 1
+read  zKibYHpioI  from  Producer 1  by consumer  Consumer 1
+waking up  Producer 2
+waking up  Producer 2
+Consumer 1  discarded
+wakig up  Producer 2
+sending  UNyDnknuUk  from  Producer 2
+sending  MLfXYdAUzg  from  Producer 2
+sending  coouKeFxuv  from  Producer 2
+sending  QRroGRTEFd  from  Producer 2
+sending  cBpnQoyMyM  from  Producer 2
+sending  DVfWJGCxMT  from  Producer 2
+sending  JejNrSzkCT  from  Producer 2
+sending  cHsHgyJrIl  from  Producer 2
+sending  owGmRRzcGW  from  Producer 2
+sending  xPAtwNLgoH  from  Producer 2
+wakig up  Producer 2
+read  uWEBRsQFxo  from  Producer 3  by consumer  Consumer 2
+read  goWiShzlxC  from  Producer 4  by consumer  Consumer 2
+read  eAImFylvWo  from  Producer 4  by consumer  Consumer 2
+read  efWTqButLK  from  Producer 1  by consumer  Consumer 2
+read  IxxCajCJtb  from  Producer 1  by consumer  Consumer 2
+read  UNyDnknuUk  from  Producer 2  by consumer  Consumer 2
+read  MLfXYdAUzg  from  Producer 2  by consumer  Consumer 2
+read  SRlSUMXwgD  from  Producer 3  by consumer  Consumer 2
+read  diEGGhCpHA  from  Producer 3  by consumer  Consumer 2
+read  mKYrEMDVck  from  Producer 4  by consumer  Consumer 2
+Consumer 2  discarded
+waking up  Producer 3
+read  XNIxMRLidL  from  Producer 4  by consumer  Consumer 1
+read  ldzgPNIBwt  from  Producer 4  by consumer  Consumer 1
+read  rDcXNDrajr  from  Producer 1  by consumer  Consumer 1
+read  coouKeFxuv  from  Producer 2  by consumer  Consumer 1
+read  QRroGRTEFd  from  Producer 2  by consumer  Consumer 1
+waking up  Producer 3
+waking up  Producer 3
+wakig up  Producer 3
+sending  iNDNYlHOgh  from  Producer 3
+sending  tElUNcprvr  from  Producer 3
+sending  AXEDdoKYgj  from  Producer 3
+sending  XfISiwEtGp  from  Producer 3
+sending  YVaTjnWxpD  from  Producer 3
+sending  JQczOqAJli  from  Producer 3
+sending  XsXMUQpycu  from  Producer 3
+sending  weFKQChdux  from  Producer 3
+sending  XHSXxCVbaK  from  Producer 3
+sending  GRSOugIlRM  from  Producer 3
+wakig up  Producer 3
+wakig up  Producer 3
+read  pVlVIPCGdW  from  Producer 4  by consumer  Consumer 1
+read  XUqyuKBePG  from  Producer 1  by consumer  Consumer 1
+read  cBpnQoyMyM  from  Producer 2  by consumer  Consumer 1
+read  iNDNYlHOgh  from  Producer 3  by consumer  Consumer 1
+waking up  Producer 4
+waking up  Producer 4
+wakig up  Producer 4
+sending  NWqtvvTJKI  from  Producer 4
+sending  kurMBYLOvp  from  Producer 4
+sending  wkOoKzqUrP  from  Producer 4
+sending  YfSISMoSjF  from  Producer 4
+sending  QxHWOIxowF  from  Producer 4
+sending  BVQSdirscc  from  Producer 4
+sending  dcowmEIDSJ  from  Producer 4
+sending  tawyTRtWgH  from  Producer 4
+sending  oReYmLyGhU  from  Producer 4
+sending  kbCmWCWjys  from  Producer 4
+wakig up  Producer 4
+read  xCkUhjgDtA  from  Producer 1  by consumer  Consumer 2
+read  DVfWJGCxMT  from  Producer 2  by consumer  Consumer 2
+read  JejNrSzkCT  from  Producer 2  by consumer  Consumer 2
+read  tElUNcprvr  from  Producer 3  by consumer  Consumer 2
+read  NWqtvvTJKI  from  Producer 4  by consumer  Consumer 2
+read  XLwwbTgsjn  from  Producer 1  by consumer  Consumer 2
+read  cHsHgyJrIl  from  Producer 2  by consumer  Consumer 2
+read  owGmRRzcGW  from  Producer 2  by consumer  Consumer 2
+read  AXEDdoKYgj  from  Producer 3  by consumer  Consumer 2
+read  kurMBYLOvp  from  Producer 4  by consumer  Consumer 2
+Consumer 2  discarded
+read  RKsHFvXjSS  from  Producer 1  by consumer  Consumer 1
+Consumer 1  discarded
